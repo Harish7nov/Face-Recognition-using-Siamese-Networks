@@ -10,3 +10,7 @@ Then euclid distance is taken between both the vectors which is fed into a Dense
 It is also widely known as one shot learning algorithm.
 
 ![Image of Siamese Network](https://www.pyimagesearch.com/wp-content/uploads/2020/11/keras_siamese_networks_sisters.png)
+
+The above picture demonstrates how Siamese Networks work with MNIST Database
+
+##Data Set used : CelebA Dataset
