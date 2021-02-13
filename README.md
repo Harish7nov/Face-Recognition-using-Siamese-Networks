@@ -13,11 +13,12 @@ It is also widely known as one shot learning algorithm.
 
 The above picture demonstrates how Siamese Networks work with MNIST Database
 
-# Data Set used : CelebA Dataset
+# Data Set
+I have used the CelebA Dataset which has a rich dataset with a lot of diversity of faces from different ethinicity.
+
 
 # Packages Required : 
-## Tensorflow - 2.1.0
-## OpenCV
-## Pandas
-## Numpy
-##
+Tensorflow - 2.1.0
+OpenCV
+Pandas
+Numpy
