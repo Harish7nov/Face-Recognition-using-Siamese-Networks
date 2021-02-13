@@ -14,3 +14,10 @@ It is also widely known as one shot learning algorithm.
 The above picture demonstrates how Siamese Networks work with MNIST Database
 
 # Data Set used : CelebA Dataset
+
+# Packages Required : 
+## Tensorflow - 2.1.0
+## OpenCV
+## Pandas
+## Numpy
+##
