@@ -18,7 +18,7 @@ I have used the CelebA Dataset which has a rich dataset with a lot of diversity 
 
 
 # Packages Required : 
-Tensorflow - 2.1.0
+Tensorflow >= 2.1.0
 
 OpenCV
 
